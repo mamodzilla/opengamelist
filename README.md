@@ -1,2 +1,2 @@
-# opengamelist
-Opengamelist - open-source site for manage games for your own list (like ImDB or MyAnimeList)
+# OpenGameList
+OpenGameList is the open-source site for manage games for your own lists (like ImDB or MyAnimeList)
